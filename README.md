@@ -37,4 +37,5 @@ El desarrollo del proyecto fue:
 - Realizar un análisis de como funcionan los códigos que se usaran. Antes de realizar un proyecto, hay que informarse a fondo de como son los funcionamientos, ya que eso ayuda a tener una mejor visualización como enterder más a fondo los detalles.
 
 
-Hecho por Deisy López en TecnolochicasPRO.
+
+© 2023 Deisy López (Programa Tecnolochicas PRO)
